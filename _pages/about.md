@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This page is under construction. The original template if available at https://github.com/academicpages/academicpages.github.io .
+Welcome! This is Farhana Ferdousi Liza and I am a Senior Research Officer at one of ESRC funded centre in UK. My research interests are Machine Learning, Deep Learning, and Natural Language Processing. My PhD research project in University of Kent was to improve deep learning tecthniques for sequential modelling task. Before starting the PhD, I worked as an Assistant Professor in Computer Science at American International University, Bangladesh.  Besides research and teaching, I enjoy travelling different places particularly the ancient historical places around the world. I enjoy cooking as much as I love eating.  All the cuisines across the world fascinate me because of their distinctive ingredients and tastes. However, my favourite cuisines are Bangladeshi, German, Thai, Chinese and Italian.
+
+
+<¡--This page is under construction. The original template if available at https://github.com/academicpages/academicpages.github.io .-->
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 A data-driven personal website
